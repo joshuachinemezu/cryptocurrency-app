@@ -1,6 +1,6 @@
 Cryptocurrency app built with React bootstrapped with create-react-app. Shows statistics for Bitcoin, Litecoin and Etherum
 
-Uses Axios for API request to hhtps://www.coinmarketcap.com
+Uses Axios for API request to https://www.coinmarketcap.com
 
 Url: https://poeticdev.github.io/cryptocurrency-app/
 
