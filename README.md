@@ -2,7 +2,7 @@ Cryptocurrency app built with React bootstrapped with create-react-app. Shows st
 
 Uses Axios for API request to https://www.coinmarketcap.com
 
-Url: https://poeticdev.github.io/cryptocurrency-app/
+Url: https://build-uxvspigodk.now.sh/
 
 Work in progress, I will add the link to guidelines and the codes
 
